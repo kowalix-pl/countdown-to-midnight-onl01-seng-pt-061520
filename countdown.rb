@@ -1,5 +1,4 @@
 #write your code here
-require 'pry'
 def countdown(number)
  number = 10
  while number >0 
